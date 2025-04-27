@@ -8,7 +8,7 @@
     int b;
     cout<<"enter b:"<<endl;
     cin>>b;
-    cout<<a*b;
+    cout<<a+b;
 
 
 
